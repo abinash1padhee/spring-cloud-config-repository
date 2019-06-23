@@ -1,3 +1,2 @@
-# Spring Cloud Config Repository
-
-Repository to maintain config properties.
+# spring-cloud-config-repository
+Config Repository for Spring Cloud
